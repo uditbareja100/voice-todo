@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/voice-todo/static/css/main.33eee5c4.css",
+    "main.js": "/voice-todo/static/js/main.d2ccea77.js",
+    "index.html": "/voice-todo/index.html",
+    "main.33eee5c4.css.map": "/voice-todo/static/css/main.33eee5c4.css.map",
+    "main.d2ccea77.js.map": "/voice-todo/static/js/main.d2ccea77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33eee5c4.css",
+    "static/js/main.d2ccea77.js"
+  ]
+}
